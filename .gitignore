@@ -1,0 +1,18 @@
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor folders and temp files
+.vscode/
+.idea/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Optional: output folder
+dist/
+build/
+
+# Node.js
+node_modules/
